@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Dev 101</title>
+  <link rel = "stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header>
+    <a href="#">Adrian James M. Almario</a>
+    <nav>
+      <a class="nav-child" href="#">About</a>
+      <a class="nav-child" href="#">Projects</a>
+      <a class="nav-child" href="#">Contact</a>
+    </nav>
+  </header>
+  <script src ="assets/script/index.js"></script>
+</body>
+</html>

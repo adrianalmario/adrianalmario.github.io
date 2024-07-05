@@ -1,0 +1,54 @@
+//console.log("Hello world!");
+//console.log("Welcome to web dev 101");
+
+let myVariable= 1
+var thisVariable = "This is a string"
+var thisLetter = "L"
+var myArray = [12.76, "This is a string", 'L']
+//console.log(myArray);
+
+
+
+function myAdd(n1, n2){
+   return  n1 + n2
+}
+
+function mySub(n1, n2){
+  return  n1 - n2
+}
+
+function myMul(n1, n2){
+  return  n1 * n2
+}
+
+function myDiv(n1, n2){
+  return  n1 / n2
+}
+
+function myExp(n1, n2){
+  return  n1 ** n2
+}
+
+/*if(1 === 1){
+  console.log("True")
+}
+else if{
+
+}
+else{
+  console.log("False")
+}*/
+
+/*for(var i = 1; i <= 100; i+=2){
+  console.log("oddnumber="+i);}*/
+/*for(var i = 1; i <= 100; i++){
+  if(i % 2 === 1){
+    console.log("oddnumber="+i);}
+}*/
+
+let i =0;
+
+while(i < myArray.length){
+  console.log(myArray[i])
+  i++;
+}
